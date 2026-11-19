@@ -25,3 +25,9 @@ Topics covered:
 - Threat response.
 - Learning from investigations.
 
+## Splunk Exploring SPL
+
+I completed the Splunk Exploring SPL room on TryHackMe. I used Splunk to search Windows logs, find the most common executable, check the region of source IPs, and find the executable with the highest risk score in the lab.
+
+![Splunk Exploring SPL room completed at 100%](splunk-completion.png)
+
